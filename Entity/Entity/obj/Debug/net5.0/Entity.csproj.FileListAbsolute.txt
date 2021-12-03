@@ -1,0 +1,12 @@
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.deps.json
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.dll
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\ref\Entity.dll
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.pdb
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.dll
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\ref\Entity.dll
+D:\SARA DOKUMENTI\Documents\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.pdb
